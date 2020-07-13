@@ -1,0 +1,23 @@
+{
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextPrefix": " # ",
+  //"diagnostic.refreshOnInsertMode": false,
+  //"diagnostic.refreshAfterSave": false,
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.messageTarget": "echo",
+  "diagnostic.enableSign": true,
+
+  "signature.target": "echo",
+
+  //"suggest.floatEnable": false,
+  "suggest.timeout": 5000,
+  //"suggest.maxCompleteItemCount": 3,
+  "suggest.localityBonus": true,
+
+  "python.pythonPath": "/usr/local/bin/python3",
+
+  "python.jediEnabled": true,
+  "python.jediShortcut": "LS",
+
+  "pyright.disableLanguageServices": true,
+}
